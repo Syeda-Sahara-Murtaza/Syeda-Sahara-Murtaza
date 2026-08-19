@@ -210,7 +210,7 @@ An AI-based Computer Vision concept designed to help users understand their surr
 
 ---
 
-## 🏆 Certifications & Courses
+## 🏆 Certifications
 
 🐍 Python Programming
 
