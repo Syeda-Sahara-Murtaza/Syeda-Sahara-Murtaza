@@ -65,11 +65,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Keras](https://skillicons.dev/icons?i=keras)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 ![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)
 
 ### 🧠 Machine Learning
@@ -137,8 +133,6 @@ Currently practicing DSA using Python:
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
-![Google Colab](https://skillicons.dev/icons?i=googlecolab)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
