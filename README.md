@@ -67,7 +67,7 @@
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)
-
+![keras](https://skillicons.dev/icons?i=keras)
 ### 🧠 Machine Learning
 
 - Linear Regression
