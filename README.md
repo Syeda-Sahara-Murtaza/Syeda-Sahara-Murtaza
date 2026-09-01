@@ -134,7 +134,8 @@ Currently practicing DSA using Python:
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Linux](https://skillicons.dev/icons?i=linux)
-
+![Jupyter](https://skillicons.dev/icons?i=Jupyter)
+![Anaconda](https://skillicons.dev/icons?i=Anaconda)
 ---
 
 # 🚀 Featured Projects
