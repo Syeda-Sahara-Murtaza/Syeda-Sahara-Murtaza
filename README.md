@@ -128,13 +128,17 @@ Currently practicing DSA using Python:
 ---
 
 
-# 🧰 Tools & Technologies
+# Tools & Technologies
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Replit](https://skillicons.dev/icons?i=Replit)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,replit,supabase,vercel&theme=dark" alt="Git, GitHub, VS Code, Linux, Replit, Supabase and Vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
 ---
 
 # 🚀 Featured Projects
@@ -287,12 +291,19 @@ An AI-based Computer Vision concept designed to help users understand their surr
  Urdu
  
 ---
- 
-## 💬 Quote
+## Quote
 
-🚀 "Keep Learning • Keep Building • Keep Growing ."
----
-🌟 Thanks for visiting my profile!
+<p align="center">
+  <i>"Keep Learning · Keep Building · Keep Growing."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:14B8A6,100:10B981&height=3" width="100%" alt="Teal gradient divider" />
+  <br />
+  <strong>Thanks for visiting my profile!</strong>
+  <br />
+  <sub>Always learning. Always building. Always improving.</sub>
+</p>
 
 
 
