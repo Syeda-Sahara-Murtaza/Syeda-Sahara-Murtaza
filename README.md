@@ -258,6 +258,27 @@ An AI-based Computer Vision concept designed to help users understand their surr
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Syeda-Sahara-Murtaza&theme=dark&hide_border=true" /> </p>
 
 ---
+---
+
+## LeetCode — Consistency & Practice
+
+<p align="center">
+  <a href="https://leetcode.com/u/tT6CxisFzN/">
+    <img src="https://leetcard.jacoblin.cool/tT6CxisFzN?theme=dark&font=baloo&ext=heatmap&hide=ranking,contest,progress" alt="LeetCode Activity Heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/tT6CxisFzN/">
+    <img src="https://img.shields.io/badge/LeetCode-Track_My_Journey-0F766E?style=for-the-badge&logo=leetcode&logoColor=white" alt="Track My LeetCode Journey" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Small steps. Consistent practice. Continuous growth.</i>
+</p>
+
+---
 
 ## 🌍 Languages
 
