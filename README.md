@@ -233,6 +233,8 @@ An AI-based Computer Vision concept designed to help users understand their surr
 
 🏆 Hackathon Participant
 
+✨Generative and Agentic Ai App development Certification
+
 ---
 
 ## 🎯 Goals
